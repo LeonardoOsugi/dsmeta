@@ -1,4 +1,4 @@
-import NotificationButton from "./components/NotificationButton"
+import NotificationButton from "./components/NotificationButton";
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Header from "./components/Header";
